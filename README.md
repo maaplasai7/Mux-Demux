@@ -99,7 +99,8 @@ Multiplexer
 ![mux](https://github.com/maaplasai7/Mux-Demux/assets/134155273/87ea3ca7-85b9-4a29-8151-abb562aec12b)
 
 Demultiplexer
-![Uploading demux.png…]()
+![demux](https://github.com/maaplasai7/Mux-Demux/assets/134155273/7ae5c3a7-37c1-49f9-8099-8ef9d358cc03)
+
 
 
 
